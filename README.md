@@ -11,3 +11,4 @@ Week 6 Jupyter Assignment
 
 ![](6-dstools.jpg)
 
+![](7-introarithmetic.jpg)
