@@ -7,3 +7,5 @@ Week 6 Jupyter Assignment
 
 ![](4-dslanguages.png)
 
+![](5-dslibraries.png)
+
