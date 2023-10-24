@@ -16,3 +16,5 @@ Week 6 Jupyter Assignment
 ![](8-multiplyandaddintegers.jpg)
 
 ![](9-hourstominutes.png)
+
+![](10-objectives.jpg)
