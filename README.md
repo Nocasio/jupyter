@@ -18,3 +18,5 @@ Week 6 Jupyter Assignment
 ![](9-hourstominutes.png)
 
 ![](10-objectives.jpg)
+
+![](11-authordetails.jpg)
