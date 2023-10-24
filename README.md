@@ -9,3 +9,5 @@ Week 6 Jupyter Assignment
 
 ![](5-dslibraries.png)
 
+![](6-dstools.jpg)
+
